@@ -1,0 +1,22 @@
+PODS:
+  - LocalizationKit (1.1.6):
+    - Socket.IO-Client-Swift (~> 8.2.0)
+  - MBProgressHUD (1.0.0)
+  - Socket.IO-Client-Swift (8.2.0)
+
+DEPENDENCIES:
+  - LocalizationKit (from `../`)
+  - MBProgressHUD
+
+EXTERNAL SOURCES:
+  LocalizationKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LocalizationKit: 9fcd7eb722624297a5c105fe88296010ce183f37
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  Socket.IO-Client-Swift: 900cf511777045c80d1ce1f11f71261e87765dd1
+
+PODFILE CHECKSUM: dd26c853c0ed06479e12eb02a1f4926532dd68fe
+
+COCOAPODS: 1.1.1

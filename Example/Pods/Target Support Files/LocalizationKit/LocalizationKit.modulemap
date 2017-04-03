@@ -1,0 +1,6 @@
+framework module LocalizationKit {
+  umbrella header "LocalizationKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
